@@ -1,0 +1,3 @@
+[submodule "requests-oauthlib"]
+	path = requests-oauthlib
+	url = git@github.com:requests/requests-oauthlib.git
